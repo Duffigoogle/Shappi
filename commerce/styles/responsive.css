@@ -1,0 +1,25 @@
+
+/* large laptop screens */
+@media only screen and (max-width: 1440px) {
+
+}
+
+/* large tablet */
+@media only screen and (max-width: 1024px) {
+    
+}
+
+/* tablet screens */
+@media only screen and (max-width: 768px) {
+    
+}
+
+/* mobile screens */
+@media only screen and (max-width: 600px) {
+    .header-nav {
+        display: none;
+    }
+    .fa-bars {
+        display: block;
+    }
+}
